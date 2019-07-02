@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme">
+    </style>
+    <style name="progressDialog">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="ProgressBar">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateDrawable">@anim/cycle_anim</item>
+    </style>
+</resources>
